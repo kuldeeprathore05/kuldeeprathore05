@@ -1,7 +1,5 @@
-# 💫 About Me:
-👋 Hi, I’m @kuldeeprathore05 <br/>
-🏫 IIT BHU(Varanasi)  <br/>
-🌱 I’m currently learning Rust<br> <br/>
+Hi, I’m @kuldeeprathore05 <br/>
+IIT BHU(Varanasi)  <br/>
 
 
 ## 🌐 Socials:
